@@ -8,6 +8,6 @@ applications:
   disk_quota: 1024M
   services:
   - test-node-red-starter-cloudantNoSQLDB
-env:
-  NODE_RED_USERNAME: chenhl@cn.ibm.com
-  NODE_RED_PASSWORD: 123456
+  env:
+    NODE_RED_USERNAME: chenhl@cn.ibm.com
+    NODE_RED_PASSWORD: 123456
