@@ -11,5 +11,3 @@ applications:
   env:
   NODE_RED_USERNAME: chenhl@cn.ibm.com
   NODE_RED_PASSWORD: 123456
-  ? ' '
-  : null
